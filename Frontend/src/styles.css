@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.book-card {
+  min-height: 100%;
+}
+
+.sticky-summary {
+  position: sticky;
+  top: 1rem;
+}
